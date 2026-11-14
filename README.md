@@ -26,19 +26,19 @@ The project is implemented in Python and uses the following scientific computing
 
 | Software | Version |
 |---|---|
-| Python | To be specified |
-| Qiskit | To be specified |
-| Qiskit Aer | To be specified |
-| Qiskit Algorithms | To be specified |
-| Qiskit IBM Runtime | To be specified |
-| PySCF | To be specified |
-| QuantumSymmetry | To be specified |
-| NumPy | To be specified |
-| SciPy | To be specified |
-| Matplotlib | To be specified |
-| pandas | To be specified |
-| OpenFermion | To be specified |
-| OpenFermion-PySCF | To be specified |
+| Python | 3.9.20 |
+| Qiskit | 1.2.4 |
+| Qiskit Aer | 0.15.1 |
+| Qiskit Algorithms | 0.3.1 |
+| Qiskit IBM Runtime | 0.34.0 |
+| PySCF | 2.7.0 |
+| QuantumSymmetry | 0.2.10 |
+| NumPy | 2.0.2 |
+| SciPy | 1.13.1 |
+| Matplotlib | 3.9.2 |
+| pandas | 2,2,3 |
+| OpenFermion | 1.5.1 |
+| OpenFermion-PySCF | 0.5 |
 
 The molecular symmetry encoding is based on the open-source [QuantumSymmetry](https://github.com/dariopicozzi/quantumsymmetry) package.
 
